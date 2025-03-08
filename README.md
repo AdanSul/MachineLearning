@@ -3,7 +3,7 @@
 ## Overview  
 This repository contains assignments covering fundamental and advanced topics in **Machine Learning**, including supervised learning, unsupervised learning, model evaluation, and feature engineering.
 
-## 📌 Assignments  
+## Assignments  
 
 ### 1️⃣ **Supervised Learning & Regression**  
 - Implemented **linear regression** and **logistic regression** from scratch.  
