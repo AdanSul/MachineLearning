@@ -1,26 +1,24 @@
 # Machine Learning 
 
-## Overview  
-This repository contains assignments covering fundamental and advanced topics in **Machine Learning**, including supervised learning, unsupervised learning, model evaluation, and feature engineering.
+## 📌 Overview  
+This repository contains hands-on assignments for the **Introduction to Machine Learning** course, covering key concepts such as classification, regression, clustering, and dimensionality reduction. Each assignment explores different algorithms and techniques for data analysis and model building.
 
-## Assignments  
+## 📚 Table of Contents  
 
-### 1️⃣ **Supervised Learning & Regression**  
-- Implemented **linear regression** and **logistic regression** from scratch.  
-- Evaluated models using **MSE, accuracy, and cross-validation**.  
-- Compared results with **sklearn’s implementations**.  
+- **[Assignment 1: Bayesian Methods & KNN](Assignment1/)**  
+  - Naïve Bayes, Gaussian Bayes  
+  - Parzen Windows, KNN  
 
-### 2️⃣ **Classification & Decision Trees**  
-- Built **decision trees** and **random forests** for classification tasks.  
-- Implemented **feature selection** and **hyperparameter tuning**.  
-- Explored **precision, recall, and confusion matrices** for performance evaluation.  
+- **[Assignment 2: Linear Models & SVM](Assignment2/)**  
+  - Perceptron, Logistic Regression  
+  - Gradient Descent, SVM, Kernels  
 
-### 3️⃣ **Unsupervised Learning: Clustering & PCA**  
-- Implemented **K-Means and Hierarchical Clustering**.  
-- Performed **dimensionality reduction using PCA**.  
-- Visualized clusters and explained principal components.  
+- **[Assignment 3: Regression & Decision Trees](Assignment3/)**  
+  - Multiclass Classification, PAC, VCdim  
+  - Bias vs Variance, Cross-validation  
+  - Linear Regression, Decision Trees  
 
-### 4️⃣ **Neural Networks & Model Optimization**  
-- Trained **fully connected neural networks** using **backpropagation**.  
-- Applied **regularization, dropout, and batch normalization**.  
-- Optimized models using **gradient descent variations (SGD, Adam)**.  
+- **[Assignment 4: Clustering & Dimensionality Reduction](Assignment4/)**  
+  - Ensemble methods, AdaBoost  
+  - PCA, LDA  
+  - K-Means Clustering  
